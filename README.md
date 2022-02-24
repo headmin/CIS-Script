@@ -76,4 +76,4 @@ Configure an Configration Profile, see example, and if you using Jamf Pro, you c
 Setup the needed Configuration Profiles for the CIS Benchmarks rules you scoring on with your MDM server or generated them with the **[CIS-macOS-Security](https://github.com/mvdbent/CIS-macOS-Security)** integrated with the macOS Security Compliance Project. Scope to the target devices.
 
 ### Extension Attributes [Jamf Pro Server](https://github.com/mvdbent/CIS-Script/tree/main/Jamf/EA)
-Upload the Extension Atrributes into you Jamf Pro Server.
+Upload the Extension Attributes into you Jamf Pro Server.
